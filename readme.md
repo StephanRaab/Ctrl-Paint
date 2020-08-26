@@ -21,8 +21,6 @@
 [Moving Forward](https://www.ctrlpaint.com/digital-painting-101/moving-forward)
 
 
-***
-
 ## 2) Traditional Drawing
 
 [Welcome](https://www.ctrlpaint.com/videos/welcome-to-traditional-drawing)
