@@ -43,7 +43,7 @@
 [Fluid Line Work](https://www.ctrlpaint.com/videos/fluid-linework)
 **[Canvas Rotation:](https://www.ctrlpaint.com/videos/canvas-rotation)**
 
- [Worksheet]([\images\ctrlPaint_canvas-rotation-drill.jpg](https://github.com/StephanRaab/Ctrl-Paint/blob/master/images/ctrlPaint_canvas-rotation-drill.jpg))
+ [Worksheet](https://github.com/StephanRaab/Ctrl-Paint/blob/master/images/ctrlPaint_canvas-rotation-drill.jpg)
 
 [Line Weight](https://www.ctrlpaint.com/videos/the-power-of-line-weight)
 [Reintroducing the Still Life](https://www.ctrlpaint.com/videos/reintroducing-the-still-life)
